@@ -1,0 +1,3 @@
+## Goal
+
+start learn cryptanalysiss
